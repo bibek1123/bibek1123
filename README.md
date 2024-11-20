@@ -17,15 +17,21 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
   
 ## 📬 Get in Touch:
 
-<div align="center">
- <img src="https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif?raw=true" alt="Get in Touch GIF" />
-</div>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- GIF Section -->
+  <img src="https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif?raw=true" alt="Get in Touch GIF" style="max-width: 200px;" />
 
-- 🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)
-- 🐱 GitHub: [bibek1123](https://github.com/bibek1123)
-- ✉️ Email: [bibekece7@gmail.com](mailto:bibek1123@gmail.com)
-- 📱 Phone: [+91 8708310549](tel:+918708310549)
-- 💬 WhatsApp: [Chat with me](https://wa.me/918570850687)
+  <!-- Contact Info Section -->
+  <div>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)</li>
+      <li>🐱 GitHub: [bibek1123](https://github.com/bibek1123)</li>
+      <li>✉️ Email: [bibekece7@gmail.com](mailto:bibek1123@gmail.com)</li>
+      <li>📱 Phone: [+91 8708310549](tel:+918708310549)</li>
+      <li>💬 WhatsApp: [Chat with me](https://wa.me/918570850687)</li>
+    </ul>
+  </div>
+</div>
 
 
 ## My Skill Set  
