@@ -24,9 +24,6 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 - 💬 WhatsApp: [Chat with me](https://wa.me/918570850687)  
   
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
