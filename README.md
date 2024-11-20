@@ -16,22 +16,17 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 - ❓ Ask me about anything related to the MERN Stack and related technologies  
   
 ## 📬 Get in Touch:
+
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: space-around; gap: 20px; width: 100%; max-width: 900px;">
-    <div style="flex: 1;">
-      <ul>
-        <li>🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)</li>
-        <li>🐱 GitHub: [bibek1123](https://github.com/bibek1123)</li>
-        <li>✉️ Email: [bibekece7@gmail.com](mailto:bibek1123@gmail.com)</li>
-        <li>📱 Phone: [+91 8708310549](tel:+918708310549)</li>
-        <li>💬 WhatsApp: [Chat with me](https://wa.me/918570850687)</li>
-      </ul>
-    </div>
-    <div style="flex: 1; text-align: center;">
-      <img src="https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif" alt="Developer GIF" width="300" />
-    </div>
-  </div>
+  ![Get in Touch](https://your-gif-url-here) <!-- Replace with your actual gif URL -->
 </div>
+
+- 🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)
+- 🐱 GitHub: [bibek1123](https://github.com/bibek1123)
+- ✉️ Email: [bibekece7@gmail.com](mailto:bibek1123@gmail.com)
+- 📱 Phone: [+91 8708310549](tel:+918708310549)
+- 💬 WhatsApp: [Chat with me](https://wa.me/918570850687)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
