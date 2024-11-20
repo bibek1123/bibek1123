@@ -18,7 +18,7 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 ## 📬 Get in Touch:
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px;">
-    <div style="flex: 1; padding-right: 20px;">
+    <div style="flex: 2; padding-right: 20px;">
       <ul>
         <li>🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)</li>
         <li>🐱 GitHub: [bibek1123](https://github.com/bibek1123)</li>
