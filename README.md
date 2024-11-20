@@ -114,6 +114,3 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
