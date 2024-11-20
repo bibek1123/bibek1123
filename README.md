@@ -15,11 +15,10 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 
 - ❓ Ask me about anything related to the MERN Stack and related technologies  
   
-
 ## 📬 Get in Touch:
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <div>
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px;">
+    <div style="flex: 1; padding-right: 20px;">
       <ul>
         <li>🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)</li>
         <li>🐱 GitHub: [bibek1123](https://github.com/bibek1123)</li>
@@ -28,12 +27,11 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
         <li>💬 WhatsApp: [Chat with me](https://wa.me/918570850687)</li>
       </ul>
     </div>
-    <div>
+    <div style="flex: 1; text-align: center;">
       <img src="https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif" alt="Developer GIF" width="300" />
     </div>
   </div>
 </div>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
