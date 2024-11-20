@@ -18,7 +18,7 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
 ## 📬 Get in Touch:
 
 <div align="center">
-  ![Get in Touch](https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif)
+ <img src="https://github.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/blob/master/developer%20gif.gif?raw=true" alt="Get in Touch GIF" />
 </div>
 
 - 🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)
