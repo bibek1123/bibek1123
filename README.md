@@ -3,17 +3,22 @@
 </div>  
   
 
-# <div align="center">🌟 Full Stack Software Engineer | Innovator | Open-Source Contributor
-Welcome to my GitHub!
-I'm a passionate Full Stack Software Engineer dedicated to crafting innovative solutions and contributing to impactful open-source projects. Whether it's building scalable backends, designing user-friendly interfaces, or exploring cutting-edge technologies, I'm always eager to turn ideas into reality. 🚀
+# <div align="center">🌟 🚀 Senior Backend Developer | Node.js | Open to New Opportunities
+Passionate and results-driven Backend Developer with expertise in designing and implementing scalable, high-performance backend solutions. With 3.5 years of hands-on experience in Node.js, Express.js, and Microservices, I specialize in building efficient and secure APIs that power dynamic applications.
 
-Feel free to explore my repositories, and don't hesitate to connect or collaborate—I believe great software is built together!</div>  
-  
+💡 Key Skills & Technologies:
+✅ Backend Development: Node.js, Express.js, RESTful APIs, Microservices
+✅ Databases: MongoDB, MySQL
+✅ Cloud & DevOps: AWS, Google Cloud
+✅ Third-Party Integrations: Stripe, PayPal, Razorpay, Twilio, Google Calendar
+✅ Security & Performance Optimization
+✅ Scalable System Architecture
 
-- 🌱 I’m currently learning Advanced NESTJS  
-  
+🔍 What Drives Me?
+I work in dynamic environments, solving complex challenges with innovative and efficient backend solutions. I am always excited to learn, adapt, and push boundaries to improve performance, security, and scalability.
 
-- ❓ Ask me about anything related to the MERN Stack and related technologies  
+📢 Open to Exciting Opportunities!
+I am actively seeking Senior Backend Developer roles where I can contribute my skills, drive impactful projects, and grow with a dynamic team. Let’s connect and build something amazing together!</div>    
   
 ## 📬 Get in Touch:
 
