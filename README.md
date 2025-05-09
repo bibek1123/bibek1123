@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/refs/heads/master/linkedinBanner.webp" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/bibek1123/Real-Time-Cake-Order-Tracker-Website-with-Stripe-Payment-method/refs/heads/master/linkedinBanner.jpg" align="center" style="width: 100%" />
 </div>  
   
 
