@@ -25,10 +25,9 @@ Feel free to explore my repositories, and don't hesitate to connect or collabora
   <div>
     <ul style="list-style-type: none; padding: 0;">
       <li>🔗 LinkedIn: [Bibek Bhagat](https://www.linkedin.com/in/bibekbhagat/)</li>
-      <li>🐱 GitHub: [bibek1123](https://github.com/bibek1123)</li>
-      <li>✉️ Email: [bibekece7@gmail.com](mailto:bibek1123@gmail.com)</li>
+      <li>🐱 HackerRank: [bibek1123](https://www.hackerrank.com/bibek1123)</li>
+      <li>✉️ Email: [bibekece7@gmail.com]</li>
       <li>📱 Phone: [+91 8708310549](tel:+918708310549)</li>
-      <li>💬 WhatsApp: [Chat with me](https://wa.me/918570850687)</li>
     </ul>
   </div>
 </div>
