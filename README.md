@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">🌟 🚀 Senior Backend Developer | Node.js | Open to New Opportunities
+# <div align="center">🌟 🚀 Backend Developer | Node.js | Open to New Opportunities
 Passionate and results-driven Backend Developer with expertise in designing and implementing scalable, high-performance backend solutions. With 3.5 years of hands-on experience in Node.js, Express.js, and Microservices, I specialize in building efficient and secure APIs that power dynamic applications.
 
 💡 Key Skills & Technologies:
@@ -18,7 +18,7 @@ Passionate and results-driven Backend Developer with expertise in designing and 
 I work in dynamic environments, solving complex challenges with innovative and efficient backend solutions. I am always excited to learn, adapt, and push boundaries to improve performance, security, and scalability.
 
 📢 Open to Exciting Opportunities!
-I am actively seeking Senior Backend Developer roles where I can contribute my skills, drive impactful projects, and grow with a dynamic team. Let’s connect and build something amazing together!</div>    
+I am actively seeking Backend Developer roles where I can contribute my skills, drive impactful projects, and grow with a dynamic team. Let’s connect and build something amazing together!</div>    
   
 ## 📬 Get in Touch:
 
